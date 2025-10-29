@@ -45,7 +45,6 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
 
 🎨 Outside of work, you’ll find me sketching UI ideas at coffee shops, exploring Seattle neighborhoods, or reading design philosophy books.
 
-⚡ Fun fact: I once built a relationship-planner app and a job-tracker dashboard just to make everyday life more poetic + productive.  
 </div>
 
 <br/>
@@ -78,7 +77,6 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
 | --- | --- |
 | <a href="https://github.com/rakkshanda/emerald-advisors" target="_blank">Emerald Advisors Extension</a> | <img src="./images/emerald.png" height="120" alt="Emerald Advisors"/><br/>AI-curated Chrome extension delivering real-time portfolio news with sentiment tagging and ChatGPT integration. Reduced research time by 35%. |
 | <a href="https://github.com/rakkshanda/claimrunnerai" target="_blank">ClaimRunnerAI</a> | <img src="./images/claimrunner.png" height="120" alt="ClaimRunner AI"/><br/>Automates legal form generation using LLM pipelines. Built dashboard in React + Tailwind with OpenAI API integration. |
-| <a href="https://github.com/rakkshanda/uwit-dashboard" target="_blank">UW IT KPI Dashboard</a> | <img src="./images/dashboard.png" height="120" alt="Dashboard"/><br/>Interactive metrics dashboard tracking PRs, bugs, and delivery KPIs; improved team reporting efficiency by 40%. |
 | <a href="https://batch-query-ena2.vercel.app/" target="_blank">BatchQuery Chatbot</a> | <img src="./images/batchquery.png" height="120" alt="BatchQuery"/><br/>AI chatbot that processes multiple image queries simultaneously with a unified API architecture. |
 | <a href="https://github.com/rakkshanda/hunch" target="_blank">Hunch App</a> | <img src="./images/hunch.png" height="120" alt="Hunch"/><br/>Built “Follow” and feedback systems in React to boost user engagement + 30-day retention by 10%. |
 
