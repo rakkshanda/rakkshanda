@@ -9,16 +9,25 @@
 </div>
 
 <br/>
-<a href="https://gitroll.io/profile/utE73x4NTn3S4a883PO02c93s5Db2" 
-   target="_blank" 
-   rel="noopener noreferrer"
-   title="View my GitRoll developer profile">
-  <img 
-    src="https://gitroll.io/api/badges/profiles/v1/utE73x4NTn3S4a883PO02c93s5Db2?theme=dark" 
-    alt="Rakshanda Bhure | GitRoll Developer Profile" 
-    style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);" 
-  />
-</a>
+<div align="center">
+  <!-- GitHub Profile Link -->
+  <a href="https://github.com/rakkshanda" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-rakkshanda-6B4EFF?style=for-the-badge&logo=github&logoColor=white" 
+         alt="GitHub Profile" />
+  </a>
+
+  <!-- GitRoll Badge -->
+  <a href="https://gitroll.io/profile/utE73x4NTn3S4a883PO02c93s5Db2" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     title="View my GitRoll Developer Profile">
+    <img 
+      src="https://gitroll.io/api/badges/profiles/v1/utE73x4NTn3S4a883PO02c93s5Db2?theme=dark" 
+      alt="Rakshanda Bhure | GitRoll Developer Profile" 
+      style="width: 100%; max-width: 600px; border-radius: 12px; margin-top: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.15);" 
+    />
+  </a>
+</div>
 
 <div align="left">
 
