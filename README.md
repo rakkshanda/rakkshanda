@@ -1,8 +1,7 @@
-## Hi there 👋
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakkshanda.rakkshanda" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&pause=1000&color=6B4EFF&center=true&vCenter=true&random=false&width=550&lines=Hi+There!;I'm+Rakshanda+Bhure+👋;Building+Products+That+Think!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&pause=1000&color=6B4EFF&center=true&vCenter=true&random=false&width=550&lines=Hi+There!;I'm+Rakshanda+Bhure+👋;Building+Products+That+Think!" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
@@ -23,7 +22,7 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
 </div>
 
 <div align="center"> 
-  <a href="mailto:rakkshanda.b@gmail.com">
+  <a href="mailto:rakkshanda.b@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/rakkshanda/" target="_blank">
@@ -80,11 +79,11 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
 ### 💬 AI & Web Applications
 | Project | Description |
 | --- | --- |
-| [Emerald Advisors Extension](https://github.com/rakkshanda/emerald-advisors) | <img src="./images/emerald.png" height="120" alt="Emerald Advisors"/><br/>AI-curated Chrome extension delivering real-time portfolio news with sentiment tagging and ChatGPT integration. Reduced research time by 35%. |
-| [ClaimRunnerAI](https://github.com/rakkshanda/claimrunnerai) | <img src="./images/claimrunner.png" height="120" alt="ClaimRunner AI"/><br/>Automates legal form generation using LLM pipelines. Built dashboard in React + Tailwind with OpenAI API integration. |
-| [UW IT KPI Dashboard](https://github.com/rakkshanda/uwit-dashboard) | <img src="./images/dashboard.png" height="120" alt="Dashboard"/><br/>Interactive metrics dashboard tracking PRs, bugs, and delivery KPIs; improved team reporting efficiency by 40%. |
-| [BatchQuery Chatbot](https://batch-query-ena2.vercel.app/) | <img src="./images/batchquery.png" height="120" alt="BatchQuery"/><br/>AI chatbot that processes multiple image queries simultaneously with a unified API architecture. |
-| [Hunch App](https://github.com/rakkshanda/hunch) | <img src="./images/hunch.png" height="120" alt="Hunch"/><br/>Built “Follow” and feedback systems in React to boost user engagement + 30-day retention by 10%. |
+| <a href="https://github.com/rakkshanda/emerald-advisors" target="_blank">Emerald Advisors Extension</a> | <img src="./images/emerald.png" height="120" alt="Emerald Advisors"/><br/>AI-curated Chrome extension delivering real-time portfolio news with sentiment tagging and ChatGPT integration. Reduced research time by 35%. |
+| <a href="https://github.com/rakkshanda/claimrunnerai" target="_blank">ClaimRunnerAI</a> | <img src="./images/claimrunner.png" height="120" alt="ClaimRunner AI"/><br/>Automates legal form generation using LLM pipelines. Built dashboard in React + Tailwind with OpenAI API integration. |
+| <a href="https://github.com/rakkshanda/uwit-dashboard" target="_blank">UW IT KPI Dashboard</a> | <img src="./images/dashboard.png" height="120" alt="Dashboard"/><br/>Interactive metrics dashboard tracking PRs, bugs, and delivery KPIs; improved team reporting efficiency by 40%. |
+| <a href="https://batch-query-ena2.vercel.app/" target="_blank">BatchQuery Chatbot</a> | <img src="./images/batchquery.png" height="120" alt="BatchQuery"/><br/>AI chatbot that processes multiple image queries simultaneously with a unified API architecture. |
+| <a href="https://github.com/rakkshanda/hunch" target="_blank">Hunch App</a> | <img src="./images/hunch.png" height="120" alt="Hunch"/><br/>Built “Follow” and feedback systems in React to boost user engagement + 30-day retention by 10%. |
 
 <hr/>
 
@@ -93,11 +92,11 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
 
 | Platform | Link |
 | --- | --- |
-| 🧑‍💼 LinkedIn | [linkedin.com/in/rakkshanda](https://www.linkedin.com/in/rakkshanda/) |
-| 🌐 Portfolio | [rakkshanda.com](https://rakkshanda.com) |
-| 💬 GitHub | [github.com/rakkshanda](https://github.com/rakkshanda) |
-| ✨ Dev.to | [dev.to/rakkshanda](https://dev.to/rakkshanda) |
-| 🎨 Art & Design | [instagram.com/raksketches](https://instagram.com/raksketches) |
+| 🧑‍💼 LinkedIn | <a href="https://www.linkedin.com/in/rakkshanda/" target="_blank">linkedin.com/in/rakkshanda</a> |
+| 🌐 Portfolio | <a href="https://rakkshanda.com/" target="_blank">rakkshanda.com</a> |
+| 💬 GitHub | <a href="https://github.com/rakkshanda" target="_blank">github.com/rakkshanda</a> |
+| ✨ Dev.to | <a href="https://dev.to/rakkshanda" target="_blank">dev.to/rakkshanda</a> |
+| 🎨 Art & Design | <a href="https://instagram.com/raksketches" target="_blank">instagram.com/raksketches</a> |
 </div>
 
 <hr/>
@@ -118,19 +117,3 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
   <br/>
   <h4>“Code. Create. Repeat — preferably with coffee in hand ☕”</h4>
 </div>
-
-
-<!--
-**rakkshanda/rakkshanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
