@@ -6,7 +6,6 @@
 
 <div align="center">
 <h4 align="center">"Good design is invisible, but great design makes people feel something."</h4>
-<img src="https://github.com/rakkshanda/rakkshanda/blob/main/images/portfolio-banner.png" align="center" alt="Project Banner" height="360" width="600;" /><br/>
 </div>
 
 <br/>
