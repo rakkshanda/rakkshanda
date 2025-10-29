@@ -51,15 +51,15 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
   <h2>⚙️ Technologies & Tools ⚙️</h2>
   <br/>
   <img src="./images/react.png" alt="React" width="80" height="70" />
-  <img src="./images/nodejs.jpeg" alt="Node.js" width="80" height="70" />
-  <img src="./images/javascript.jpeg" alt="JavaScript" width="70" height="70" />
+  <img src="./images/nodejs.png" alt="Node.js" width="80" height="70" />
+  <img src="./images/javascript.png" alt="JavaScript" width="70" height="70" />
   <img src="./images/python.png" alt="Python" width="70" height="70" />
   <img src="./images/tailwind.png" alt="TailwindCSS" width="80" height="70" />
-  <img src="./images/postgresql.jpg" alt="PostgreSQL" width="80" height="70" />
+  <img src="./images/postgresql.png" alt="PostgreSQL" width="80" height="70" />
   <img src="./images/wordpress.png" alt="WordPress" width="80" height="70" />
   <img src="./images/shopify.png" alt="Shopify" width="80" height="70" />
   <img src="./images/git.png" alt="Git" width="80" height="70" />
-  <img src="./images/figma.webp" alt="Figma" width="80" height="70" />
+  <img src="./images/figma.png" alt="Figma" width="80" height="70" />
 </div>
 
 <hr/>
