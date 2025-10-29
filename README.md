@@ -31,9 +31,6 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
   <a href="https://rakkshanda.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-6B4EFF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/rakkshanda" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 <hr/>
@@ -84,20 +81,6 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
 | <a href="https://github.com/rakkshanda/uwit-dashboard" target="_blank">UW IT KPI Dashboard</a> | <img src="./images/dashboard.png" height="120" alt="Dashboard"/><br/>Interactive metrics dashboard tracking PRs, bugs, and delivery KPIs; improved team reporting efficiency by 40%. |
 | <a href="https://batch-query-ena2.vercel.app/" target="_blank">BatchQuery Chatbot</a> | <img src="./images/batchquery.png" height="120" alt="BatchQuery"/><br/>AI chatbot that processes multiple image queries simultaneously with a unified API architecture. |
 | <a href="https://github.com/rakkshanda/hunch" target="_blank">Hunch App</a> | <img src="./images/hunch.png" height="120" alt="Hunch"/><br/>Built “Follow” and feedback systems in React to boost user engagement + 30-day retention by 10%. |
-
-<hr/>
-
-<div align="center">
-  <h2>💻 Social Profiles 💻</h2>
-
-| Platform | Link |
-| --- | --- |
-| 🧑‍💼 LinkedIn | <a href="https://www.linkedin.com/in/rakkshanda/" target="_blank">linkedin.com/in/rakkshanda</a> |
-| 🌐 Portfolio | <a href="https://rakkshanda.com/" target="_blank">rakkshanda.com</a> |
-| 💬 GitHub | <a href="https://github.com/rakkshanda" target="_blank">github.com/rakkshanda</a> |
-| ✨ Dev.to | <a href="https://dev.to/rakkshanda" target="_blank">dev.to/rakkshanda</a> |
-| 🎨 Art & Design | <a href="https://instagram.com/raksketches" target="_blank">instagram.com/raksketches</a> |
-</div>
 
 <hr/>
 
