@@ -9,15 +9,6 @@
 </div>
 
 <br/>
-<div align="center">
-  <!-- GitHub Profile Link -->
-  <a href="https://github.com/rakkshanda" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-rakkshanda-6B4EFF?style=for-the-badge&logo=github&logoColor=white" 
-         alt="GitHub Profile" />
-  </a>
-
-
-</div>
 
 <div align="left">
 
