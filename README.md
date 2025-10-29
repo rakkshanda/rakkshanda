@@ -94,7 +94,6 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
 <hr/>
 
 <div align="center">
-  <img src="./images/coffee.png" alt="Coffee Logo" width="260" height="220" />
   <br/>
   <h4>“Code. Create. Repeat — preferably with coffee in hand ☕”</h4>
 </div>
