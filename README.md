@@ -9,6 +9,16 @@
 </div>
 
 <br/>
+<a href="https://gitroll.io/profile/utE73x4NTn3S4a883PO02c93s5Db2" 
+   target="_blank" 
+   rel="noopener noreferrer"
+   title="View my GitRoll developer profile">
+  <img 
+    src="https://gitroll.io/api/badges/profiles/v1/utE73x4NTn3S4a883PO02c93s5Db2?theme=dark" 
+    alt="Rakshanda Bhure | GitRoll Developer Profile" 
+    style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.15);" 
+  />
+</a>
 
 <div align="left">
 
