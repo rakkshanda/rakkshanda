@@ -72,7 +72,7 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
 | Project | Description |
 | --- | --- |
 | <a href="https://github.com/rakkshanda/emerald-advisors" target="_blank">Financial Browser Extension</a> | <br/>AI-curated Chrome extension delivering real-time portfolio news with sentiment tagging and ChatGPT integration. Reduced research time by 35%. |
-| <a href="https://github.com/rakkshanda/claimrunnerai" target="_blank">ClaimRunnerAI</a> | br/>Automates legal form generation using LLM pipelines. Built dashboard in React + Tailwind with OpenAI API integration. |
+| <a href="https://github.com/rakkshanda/claimrunnerai" target="_blank">ClaimRunnerAI</a> | Automates legal form generation using LLM pipelines. Built dashboard in React + Tailwind with OpenAI API integration. |
 | <a href="https://batch-query-ena2.vercel.app/" target="_blank">Delivery Chatbot</a> | <br/>AI chatbot that processes multiple image queries simultaneously with a unified API architecture. |
 
 <hr/>
