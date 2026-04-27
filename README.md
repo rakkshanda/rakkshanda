@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakkshanda.rakkshanda" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&pause=1000&color=6B4EFF&center=true&vCenter=true&random=false&width=550&lines=Hi+There!;I'm+Rakshanda+Bhure+👋;Building+Products+That+Think!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&pause=1000&color=6B4EFF&center=true&vCenter=true&random=false&width=550&lines=Hi+There!;I'm+Rakshanda+👋;Frontend+developer+👋;Building+Products+That+Think!" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
@@ -10,40 +10,33 @@
 
 <br/>
 
+
 <div align="left">
+💡 <strong>Front-end developer</strong> passionate about accessible, user-centered design.  
+I build WordPress themes and React applications that work for real people — from nonprofits supporting young mothers to public universities shaping how prospective students experience campus.
 
-💡 **Software Engineer × Program Manager × Product Designer** blending code, creativity, and impact.  
-I love turning abstract ideas into real products — from AI-powered Chrome extensions to analytics dashboards that tell stories through data.
+🌸 Recent Graduate at <strong>University of Washington (MSIM)</strong>, previously contributed to UMAC's web ecosystem and built front-end systems at <strong>Hunch, PlotX, and Analytics Quad4</strong> — spanning WordPress plugins, React applications, and content management tools.
 
-🌸 Graduate Student at **University of Washington (MSIM)**, previously led projects across AI, UX, and product analytics — from **Emerald Advisors (AI-curated finance extension)** to **ClaimRunnerAI (legal-tech automation)** and **UW IT dashboards**.
-
-📈 I believe tech should simplify lives — whether that’s reducing research time by 50%, improving retention by 12%, or automating reporting hours out of existence.  
+📈 I care about the details — semantic HTML, responsive design, performance, and making sure the work serves the people who use it.
 </div>
 
 <div align="center"> 
   <a href="mailto:rakkshanda.b@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-EAE2F8?style=flat&logo=gmail&logoColor=6B4EFF&labelColor=EAE2F8" />
   </a>
   <a href="https://www.linkedin.com/in/rakkshanda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-EAE2F8?style=flat&logo=linkedin&logoColor=6B4EFF&labelColor=EAE2F8" />
   </a>
   <a href="https://rakkshanda.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-6B4EFF?style=for-the-badge&logo=vercel&logoColor=white" />
+     <img src="https://img.shields.io/badge/Portfolio-EAE2F8?style=flat&logo=vercel&logoColor=6B4EFF&labelColor=EAE2F8" />
   </a>
 </div>
-
 <hr/>
 
-<div align="left">
-
-🌱 **Tech stack:** React · Node.js · JavaScript · Python · OpenAI API · Tailwind · PostgreSQL · Chrome Extensions · WordPress · Shopify  
-
-🚀 **Focus areas:** AI-driven automation · UX engineering · product strategy · data visualization · LLM integrations  
-
-🧠 **Projects:** Emerald Advisors (LLM Chrome extension) | ClaimRunnerAI (legal AI automation) | Hunch (dating app follow system) | UW IT KPI Dashboard | GitHub Metrics Analyzer  
-
-🎨 Outside of work, you’ll find me sketching UI ideas at coffee shops, exploring Seattle neighborhoods, or reading design philosophy books.
-</div>
+🌱 <strong>Tech stack:</strong> HTML · CSS · JavaScript · TypeScript · React · WordPress · PHP · MySQL · SASS · jQuery · Bootstrap · Git  
+🚀 <strong>Focus areas:</strong> Front-end development · accessibility (WCAG 2.1 AA) · WordPress themes & plugins · responsive design · UX engineering  
+🧠 <strong>Projects:</strong> UW Directory Plugin (Folklore) | AIMS UW iSchool Website | South Project TX (nonprofit site) | UMAC KPI Dashboard  
+🎨 Outside of work: too much boba, too many tabs, occasional walks.
 
 <br/>
 
@@ -68,27 +61,21 @@ I love turning abstract ideas into real products — from AI-powered Chrome exte
     <h2>🚀 Featured Projects 🚀</h2>
 </div>
 
-### 💬 AI & Web Applications
+### 🌐 Web Applications & WordPress
+
 | Project | Description |
 | --- | --- |
-| <a href="https://github.com/rakkshanda/emerald-advisors" target="_blank">Financial Browser Extension</a> | <br/>AI-curated Chrome extension delivering real-time portfolio news with sentiment tagging and ChatGPT integration. Reduced research time by 35%. |
-| <a href="https://github.com/rakkshanda/claimrunnerai" target="_blank">ClaimRunnerAI</a> | Automates legal form generation using LLM pipelines. Built dashboard in React + Tailwind with OpenAI API integration. |
-| <a href="https://batch-query-ena2.vercel.app/" target="_blank">Delivery Chatbot</a> | <br/>AI chatbot that processes multiple image queries simultaneously with a unified API architecture. |
-
+| <a href="https://www.washington.edu/docs/plugins/uw-directory-plugin/" target="_blank">UW Directory Plugin (Folklore)</a> | WordPress plugin built for UMAC's Web Strategy team, used by UW departments. Features searchable, filterable people directories with custom post types, ACF Pro, and full keyboard accessibility. |
+| <a href="https://aims.ischool.uw.edu" target="_blank">AIMS Website</a> | Full WordPress redesign for the Association of Information Management Students at the UW iSchool. Custom templates, responsive design, and a consistent visual system. |
+| <a href="https://github.com/rakkshanda/emerald-advisors" target="_blank">Financial Browser Extension</a> | AI-curated Chrome extension delivering real-time portfolio news with sentiment tagging and ChatGPT integration. Reduced analyst research time by 50%. |
 <hr/>
 
 <div align="center">
-  <h2>📊 GitHub Stats 📊</h2>
+  <h2>✨ GitHub Stats ✨</h2>
   <br>
-  <img width=390 src="https://streak-stats.demolab.com/?user=rakkshanda&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rakkshanda&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=rakkshanda&count_private=true&theme=highcontrast&hide_border=true&background=FAF5FF&stroke=6B4EFF&ring=6B4EFF&fire=FF6B9D&currStreakLabel=6B4EFF&sideLabels=333333&dates=666666&sideNums=333333&currStreakNum=333333" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rakkshanda&count_private=true&show_icons=true&hide_border=true&bg_color=FAF5FF&title_color=6B4EFF&icon_color=FF6B9D&text_color=333333" alt="readme stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkshanda&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkshanda&hide=HTML&langs_count=8&layout=compact&hide_border=true&bg_color=FAF5FF&title_color=6B4EFF&text_color=333333" alt="top langs"/>
 </div>
-
 <hr/>
-
-<div align="center">
-  <br/>
-  <h4>“Code. Create. Repeat — preferably with coffee in hand ☕”</h4>
-</div>
