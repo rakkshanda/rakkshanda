@@ -27,9 +27,7 @@ I build WordPress themes and React applications that work for real people — fr
   <a href="https://www.linkedin.com/in/rakkshanda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EAE2F8?style=flat&logo=linkedin&logoColor=6B4EFF&labelColor=EAE2F8" />
   </a>
-  <a href="https://rakkshanda.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-EAE2F8?style=flat&logo=vercel&logoColor=6B4EFF&labelColor=EAE2F8" />
-  </a>
+ 
 </div>
 <hr/>
 
