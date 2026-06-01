@@ -4,9 +4,6 @@
     <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&pause=1000&color=6B4EFF&center=true&vCenter=true&random=false&width=550&lines=Hi+There!;I'm+Rakshanda+👋;Frontend+developer+👋;Building+Products+That+Think!" alt="Typing SVG" /></a>
 </h1>
 
-<div align="center">
-<h4 align="center">"Good design is invisible, but great design makes people feel something."</h4>
-</div>
 
 <br/>
 
@@ -72,8 +69,6 @@ I build WordPress themes and React applications that work for real people — fr
   <h2>✨ GitHub Stats ✨</h2>
   <br>
   <img width=390 src="https://streak-stats.demolab.com/?user=rakkshanda&count_private=true&theme=highcontrast&hide_border=true&background=FAF5FF&stroke=6B4EFF&ring=6B4EFF&fire=FF6B9D&currStreakLabel=6B4EFF&sideLabels=333333&dates=666666&sideNums=333333&currStreakNum=333333" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rakkshanda&count_private=true&show_icons=true&hide_border=true&bg_color=FAF5FF&title_color=6B4EFF&icon_color=FF6B9D&text_color=333333" alt="readme stats"/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkshanda&hide=HTML&langs_count=8&layout=compact&hide_border=true&bg_color=FAF5FF&title_color=6B4EFF&text_color=333333" alt="top langs"/>
+
 </div>
 <hr/>
