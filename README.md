@@ -65,7 +65,7 @@ I build WordPress themes and React applications that work for real people — fr
 | --- | --- |
 | <a href="https://www.washington.edu/docs/plugins/uw-directory-plugin/" target="_blank">UW Directory Plugin (Folklore)</a> | WordPress plugin built for UMAC's Web Strategy team, used by UW departments. Features searchable, filterable people directories with custom post types, ACF Pro, and full keyboard accessibility. |
 | <a href="https://aims.ischool.uw.edu" target="_blank">AIMS Website</a> | Full WordPress redesign for the Association of Information Management Students at the UW iSchool. Custom templates, responsive design, and a consistent visual system. |
-| <a href="https://github.com/rakkshanda/emerald-advisors" target="_blank">Financial Browser Extension</a> | AI-curated Chrome extension delivering real-time portfolio news with sentiment tagging and ChatGPT integration. Reduced analyst research time by 50%. |
+| <a href="https://github.com/rakkshanda/EA-Chrome-extension" target="_blank">Financial Browser Extension</a> | AI-curated Chrome extension delivering real-time portfolio news with sentiment tagging and ChatGPT integration. Reduced analyst research time by 50%. |
 <hr/>
 
 <div align="center">
