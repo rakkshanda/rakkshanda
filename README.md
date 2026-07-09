@@ -76,13 +76,4 @@ I build intelligent applications that transform complex data into useful experie
 
 <hr/>
 
-<div align="center">
-<h2>✨ GitHub Stats ✨</h2>
 
-<br>
-
-<img width=390 src="https://streak-stats.demolab.com/?user=rakkshanda&count_private=true&theme=highcontrast&hide_border=true&background=FAF5FF&stroke=6B4EFF&ring=6B4EFF&fire=FF6B9D&currStreakLabel=6B4EFF&sideLabels=333333&dates=666666&sideNums=333333&currStreakNum=333333" alt="streak stats"/>
-
-</div>
-
-<hr/>
