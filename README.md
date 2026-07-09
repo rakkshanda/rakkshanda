@@ -48,9 +48,17 @@ I build intelligent applications that transform complex data into useful experie
   <h2>⚙️ Technologies & Tools ⚙️</h2>
   <br/>
 
+ 
+  <img src="./images/python.png" alt="Python" width="75" height="70"/>
   <img src="./images/pytorch.png" alt="PyTorch" width="75" height="70"/>
   <img src="./images/langchain.png" alt="LangChain" width="75" height="70"/>
   <img src="./images/pinecone.png" alt="Pinecone" width="75" height="70"/>
+  <img src="./images/postgresql.png" alt="PostgreSQL" width="75" height="70"/>
+  <img src="./images/react.png" alt="React" width="75" height="70"/>
+  <img src="./images/nodejs.png" alt="Node.js" width="75" height="70"/>
+  <img src="./images/git.png" alt="Git" width="75" height="70"/>
+
+
 
 </div>
 
