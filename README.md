@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rakkshanda.rakkshanda" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&pause=1000&color=6B4EFF&center=true&vCenter=true&random=false&width=550&lines=Hi+There!;I'm+Rakshanda+👋;Frontend+developer+👋;Building+Products+That+Think!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=34&pause=1000&color=6B4EFF&center=true&vCenter=true&random=false&width=550&lines=Hi+There!;I'm+Rakshanda+👋;Fullstack+developer+👋;Building+Products+That+Think!" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -9,7 +9,7 @@
 
 
 <div align="left">
-💡 <strong>Front-end developer</strong> passionate about accessible, user-centered design.  
+💡 <strong>Fullstack developer</strong> passionate about accessible, user-centered design.  
 I build WordPress themes and React applications that work for real people — from nonprofits supporting young mothers to public universities shaping how prospective students experience campus.
 
 🌸 Recent Graduate at <strong>University of Washington (MSIM)</strong>, previously contributed to UMAC's web ecosystem and built front-end systems at <strong>Hunch, PlotX, and Analytics Quad4</strong> — spanning WordPress plugins, React applications, and content management tools.
