@@ -29,7 +29,7 @@ I build WordPress themes and React applications that work for real people — fr
 <hr/>
 
 🌱 <strong>Tech stack:</strong> HTML · CSS · JavaScript · TypeScript · React · WordPress · PHP · MySQL · SASS · jQuery · Bootstrap · Git  
-🚀 <strong>Focus areas:</strong> Front-end development · accessibility (WCAG 2.1 AA) · WordPress themes & plugins · responsive design · UX engineering  
+🚀 <strong>Focus areas:</strong> Fullstack development · accessibility (WCAG 2.1 AA) ·  themes & plugins · responsive design · UX engineering  
 🧠 <strong>Projects:</strong> UW Directory Plugin (Folklore) | AIMS UW iSchool Website | South Project TX (nonprofit site) | UMAC KPI Dashboard  
 🎨 Outside of work: too much boba, too many tabs, occasional walks.
 
@@ -60,8 +60,8 @@ I build WordPress themes and React applications that work for real people — fr
 
 | Project | Description |
 | --- | --- |
-| <a href="https://www.washington.edu/docs/plugins/uw-directory-plugin/" target="_blank">UW Directory Plugin (Folklore)</a> | WordPress plugin built for UMAC's Web Strategy team, used by UW departments. Features searchable, filterable people directories with custom post types, ACF Pro, and full keyboard accessibility. |
-| <a href="https://aims.ischool.uw.edu" target="_blank">AIMS Website</a> | Full WordPress redesign for the Association of Information Management Students at the UW iSchool. Custom templates, responsive design, and a consistent visual system. |
+| <a href="https://www.washington.edu/docs/plugins/uw-directory-plugin/" target="_blank">UW Directory Plugin (Folklore)</a> |  plugin built for UMAC's Web Strategy team, used by UW departments. Features searchable, filterable people directories with custom post types, ACF Pro, and full keyboard accessibility. |
+| <a href="https://aims.ischool.uw.edu" target="_blank">AIMS Website</a> | Full  redesign for the Association of Information Management Students at the UW iSchool. Custom templates, responsive design, and a consistent visual system. |
 | <a href="https://github.com/rakkshanda/EA-Chrome-extension" target="_blank">Financial Browser Extension</a> | AI-curated Chrome extension delivering real-time portfolio news with sentiment tagging and ChatGPT integration. Reduced analyst research time by 50%. |
 <hr/>
 
